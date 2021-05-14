@@ -12,5 +12,8 @@ Quais ferramentas utilizei?
 >Node.JS (https://nodejs.org/pt-br/docs/)
 >ReactJS (https://pt-br.reactjs.org/docs/getting-started.html)
 >AXIOS   (https://github.com/axios/axios)
+>
+
 Como rodar o projeto?
 1 Passo >>> Instale o Node.JS e ReactJS (https://www.devmedia.com.br/como-instalar-o-node-js-npm-e-o-react-no-windows/40329)
+2 Passo >>> abra o terminal, npm start
